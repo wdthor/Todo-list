@@ -1,6 +1,6 @@
 # Todo List
 
-- demo: [Todo List](https://codepen.io/webdevthierry/pen/EgKBOq)
+- demo: [Todo List](https://codepen.io/webdevthierry/full/EgKBOq/)
 
 ### User Story:
 
